@@ -12,11 +12,11 @@
 - [ardrag0n/revanced-magisk](https://github.com/ardrag0n/revanced-magisk) - 
 ### 🌱 My latest projects
 
+- [ardrag0n/nvim-config](https://github.com/ardrag0n/nvim-config) - My neovim config
 - [ardrag0n/Nix](https://github.com/ardrag0n/Nix) - 
 - [ardrag0n/dwm-rice](https://github.com/ardrag0n/dwm-rice) - 
 - [ardrag0n/fizzbuzz](https://github.com/ardrag0n/fizzbuzz) - 
 - [ardrag0n/revanced-magisk](https://github.com/ardrag0n/revanced-magisk) - 
-- [ardrag0n/BSPWM-Files](https://github.com/ardrag0n/BSPWM-Files) - 
 ### 🔨 My recent Pull Requests
 
 - [Fixing Shortcut for Window Closing in sxhkd](https://github.com/ChrisTitusTech/Debian-titus/pull/40) on [ChrisTitusTech/Debian-titus](https://github.com/ChrisTitusTech/Debian-titus)
