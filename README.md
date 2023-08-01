@@ -5,11 +5,11 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [ardrag0n/nvim-config](https://github.com/ardrag0n/nvim-config) - My neovim config
 - [ardrag0n/website](https://github.com/ardrag0n/website) - website
 - [ardrag0n/dwm-rice](https://github.com/ardrag0n/dwm-rice) - 
 - [ardrag0n/Nix](https://github.com/ardrag0n/Nix) - 
 - [ardrag0n/fizzbuzz](https://github.com/ardrag0n/fizzbuzz) - 
-- [ardrag0n/revanced-magisk](https://github.com/ardrag0n/revanced-magisk) - 
 ### 🌱 My latest projects
 
 - [ardrag0n/nvim-config](https://github.com/ardrag0n/nvim-config) - My neovim config
@@ -24,11 +24,11 @@
 - [Fixing Battery Icon For Laptop Users](https://github.com/ChrisTitusTech/Debian-titus/pull/37) on [ChrisTitusTech/Debian-titus](https://github.com/ChrisTitusTech/Debian-titus)
 ### ⭐ Recent Stars
 
+- [inotia00/ReVanced_Extended](https://github.com/inotia00/ReVanced_Extended) - ReVanced Extended Issues/Request repo
 - [Fadi002/unshackle](https://github.com/Fadi002/unshackle) - Open-source tool to bypass windows and linux passwords from bootable usb
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
-- [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 ### 📰 Recent Blog Posts
 
 - [Regenerating Messed Up Directories Using Pacman](https://thebrink.netlify.app/posts/2023/pacman_is_better/)
