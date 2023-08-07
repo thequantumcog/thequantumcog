@@ -5,18 +5,18 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ardrag0n/nvim-config](https://github.com/ardrag0n/nvim-config) - My neovim config
 - [ardrag0n/website](https://github.com/ardrag0n/website) - website
+- [ardrag0n/artix-rice](https://github.com/ardrag0n/artix-rice) - My Artix Auto Install Script.So I don&#39;t have to reinstall everything manually
+- [ardrag0n/system-configs](https://github.com/ardrag0n/system-configs) - My Linux Configs
+- [ardrag0n/nvim-config](https://github.com/ardrag0n/nvim-config) - My neovim config
 - [ardrag0n/dwm-rice](https://github.com/ardrag0n/dwm-rice) - 
-- [ardrag0n/Nix](https://github.com/ardrag0n/Nix) - 
-- [ardrag0n/fizzbuzz](https://github.com/ardrag0n/fizzbuzz) - 
 ### 🌱 My latest projects
 
+- [ardrag0n/system-configs](https://github.com/ardrag0n/system-configs) - My Linux Configs
+- [ardrag0n/artix-rice](https://github.com/ardrag0n/artix-rice) - My Artix Auto Install Script.So I don&#39;t have to reinstall everything manually
 - [ardrag0n/nvim-config](https://github.com/ardrag0n/nvim-config) - My neovim config
 - [ardrag0n/Nix](https://github.com/ardrag0n/Nix) - 
 - [ardrag0n/dwm-rice](https://github.com/ardrag0n/dwm-rice) - 
-- [ardrag0n/fizzbuzz](https://github.com/ardrag0n/fizzbuzz) - 
-- [ardrag0n/revanced-magisk](https://github.com/ardrag0n/revanced-magisk) - 
 ### 🔨 My recent Pull Requests
 
 - [Fixing Shortcut for Window Closing in sxhkd](https://github.com/ChrisTitusTech/Debian-titus/pull/40) on [ChrisTitusTech/Debian-titus](https://github.com/ChrisTitusTech/Debian-titus)
@@ -31,7 +31,8 @@
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 ### 📰 Recent Blog Posts
 
-- [Regenerating Messed Up Directories Using Pacman](https://thebrink.netlify.app/posts/2023/pacman_is_better/)
+- [Setting Git Global Configs](https://thebrink.netlify.app/posts/2023/git_setup/)
+- [Regenerating a Directory using Pacman](https://thebrink.netlify.app/posts/2023/pacman_is_better/)
 - [Decentralized Social Media](https://thebrink.netlify.app/posts/2023/decentralized_media/)
 - [SpotX: The Spotify Adblocker You&#39;ve Been Waiting For](https://thebrink.netlify.app/spotx/)
 ### 📫 How to reach me:
