@@ -23,6 +23,8 @@ jobs:
           writeTo: 'README.md'
       - name: generate-snake-game-from-github-contribution-grid
         uses: Platane/snk@v3.0.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
