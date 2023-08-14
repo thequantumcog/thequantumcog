@@ -21,6 +21,8 @@ jobs:
         with:
           template: 'README.gtpl'
           writeTo: 'README.md'
+      - name: generate-snake-game-from-github-contribution-grid
+        uses: Platane/snk@v3.0.0
 
       - name: Commit README
         uses: stefanzweifel/git-auto-commit-action@v4
