@@ -17,7 +17,7 @@
 - [{{ .Title }}]({{ .URL }}) on [{{ .Repo.Name }}]({{ .Repo.URL }})
 {{- end }}
 ### 📰 Recent Blog Posts
-{{ range rss "https://thebrink.netlify.app/index.xml" 5 }}
+{{ range rss "https://thebrink.netlify.app/feed.xml" 5 }}
 - [{{ .Title }}]({{ .URL }})
 {{- end }}
 ### 📫 How to reach me:
