@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/ardrag0n/ardrag0n/output/github-contribution-grid-snake.svg" />
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
+<p align="center"><a href="https://github.com/ardrag0n/github-readme-stats">
   <img align="center" src="github-readme-stats-zeta-eight-79.vercel.app/api?username=ardrag0n&show_icons=true&theme=transparent&hide=contribs" />
 </a></p>
 
