@@ -26,7 +26,6 @@
 ### 📰 Recent Blog Posts
 
 - [Basic Git Cheatsheat](https://thebrink.netlify.app/posts/2023/basic-github-cheatsheat/)
-- [Setting Git Global Configs](https://thebrink.netlify.app/posts/2023/my-git-setup/)
 - [Effortless Directory Regeneration Using Pacman](https://thebrink.netlify.app/posts/2023/regenerating-configs-using-pacman/)
 - [Decentralized Social Media](https://thebrink.netlify.app/posts/2023/decentralized-socialmedia/)
 - [SpotX: The Spotify Adblocker You&#39;ve Been Waiting For](https://thebrink.netlify.app/spotx/)
