@@ -26,10 +26,10 @@
 ### 📰 Recent Blog Posts
 
 - [My Configs](https://thebrink.netlify.app/posts/2023/my-configs/)
+- [Android Tweaks](https://thebrink.netlify.app/android-tweaks/)
 - [Autologin Linux](https://thebrink.netlify.app/autologin-linux/)
 - [Basic Git Cheatsheat](https://thebrink.netlify.app/posts/2023/basic-github-cheatsheat/)
 - [Effortless Directory Regeneration Using Pacman](https://thebrink.netlify.app/regenerating-configs-using-pacman/)
-- [Decentralized Social Media](https://thebrink.netlify.app/posts/2023/decentralized-socialmedia/)
 ### 📫 How to reach me:
   - Twitter   : <https://twitter.com/ar0177417>
   - Blog   : <https://thebrink.netlify.app>
