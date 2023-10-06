@@ -26,10 +26,10 @@
 ### 📰 Recent Blog Posts
 
 - [My Configs](https://thebrink.netlify.app/posts/2023/my-configs/)
+- [Shenanigan Free Windows Installation](https://thebrink.netlify.app/shenanigan-free-windows-installation/)
 - [Optimizing Linux Boot Time](https://thebrink.netlify.app/optimizing-boot-time/)
 - [Real SmartTv Experience](https://thebrink.netlify.app/posts/2023/real-smarttv-experience/)
 - [Disable Core Dumps](https://thebrink.netlify.app/disable-core-dumps/)
-- [Android Tweaks](https://thebrink.netlify.app/android-tweaks/)
 ### 📫 How to reach me:
   - Twitter   : <https://twitter.com/ar0177417>
   - Blog   : <https://thebrink.netlify.app>
