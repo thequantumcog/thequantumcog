@@ -28,7 +28,7 @@
 - [My Configs](https://thebrink.netlify.app/posts/2023/my-configs/)
 - [Shenanigan Free Windows Installation](https://thebrink.netlify.app/shenanigan-free-windows-installation/)
 - [Optimizing Linux Boot Time](https://thebrink.netlify.app/optimizing-boot-time/)
-- [Real SmartTv Experience](https://thebrink.netlify.app/posts/2023/real-smarttv-experience/)
+- [The Problem With Smart Televisions](https://thebrink.netlify.app/posts/2023/real-smarttv-experience/)
 - [Disable Core Dumps](https://thebrink.netlify.app/disable-core-dumps/)
 ### 📫 How to reach me:
   - Twitter   : <https://twitter.com/ar0177417>
