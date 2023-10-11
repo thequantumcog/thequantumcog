@@ -6,18 +6,18 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ardrag0n/oneclick-android](https://github.com/ardrag0n/oneclick-android) - 
+- [ardrag0n/website](https://github.com/ardrag0n/website) - website
 - [ardrag0n/calc](https://github.com/ardrag0n/calc) - A simple Mdcat Merit calculator
 - [ardrag0n/artix-rice](https://github.com/ardrag0n/artix-rice) - My Artix Auto Install Script.So I don&#39;t have to reinstall everything manually
 - [ardrag0n/nvim-config](https://github.com/ardrag0n/nvim-config) - My neovim config
 - [ardrag0n/dwm-rice](https://github.com/ardrag0n/dwm-rice) - 
 ### 🌱 My latest projects
 
-- [ardrag0n/oneclick-android](https://github.com/ardrag0n/oneclick-android) - 
 - [ardrag0n/calc](https://github.com/ardrag0n/calc) - A simple Mdcat Merit calculator
 - [ardrag0n/artix-rice](https://github.com/ardrag0n/artix-rice) - My Artix Auto Install Script.So I don&#39;t have to reinstall everything manually
 - [ardrag0n/nvim-config](https://github.com/ardrag0n/nvim-config) - My neovim config
 - [ardrag0n/Nix](https://github.com/ardrag0n/Nix) - 
+- [ardrag0n/dwm-rice](https://github.com/ardrag0n/dwm-rice) - 
 ### 🔨 My recent Pull Requests
 
 - [Fixing Shortcut for Window Closing in sxhkd](https://github.com/ChrisTitusTech/Debian-titus/pull/40) on [ChrisTitusTech/Debian-titus](https://github.com/ChrisTitusTech/Debian-titus)
@@ -26,10 +26,10 @@
 ### 📰 Recent Blog Posts
 
 - [My Configs](https://thebrink.netlify.app/posts/2023/my-configs/)
+- [Using Fingerprint for Sudo Password](https://thebrink.netlify.app/using-fingerprint-for-sudo-password/)
+- [Useful Adb Commands](https://thebrink.netlify.app/adb-tricks/)
 - [Shenanigan Free Windows Installation](https://thebrink.netlify.app/shenanigan-free-windows-installation/)
 - [Optimizing Linux Boot Time](https://thebrink.netlify.app/optimizing-boot-time/)
-- [The Problem With Smart Televisions](https://thebrink.netlify.app/posts/2023/real-smarttv-experience/)
-- [Disable Core Dumps](https://thebrink.netlify.app/disable-core-dumps/)
 ### 📫 How to reach me:
   - Twitter   : <https://twitter.com/ar0177417>
   - Blog   : <https://thebrink.netlify.app>
