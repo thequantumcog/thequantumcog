@@ -7,10 +7,10 @@
 ### 👷 Check out what I'm currently working on
 
 - [ardrag0n/website](https://github.com/ardrag0n/website) - website
+- [ardrag0n/dwm-rice](https://github.com/ardrag0n/dwm-rice) - 
 - [ardrag0n/calc](https://github.com/ardrag0n/calc) - A simple Mdcat Merit calculator
 - [ardrag0n/artix-rice](https://github.com/ardrag0n/artix-rice) - My Artix Auto Install Script.So I don&#39;t have to reinstall everything manually
 - [ardrag0n/nvim-config](https://github.com/ardrag0n/nvim-config) - My neovim config
-- [ardrag0n/dwm-rice](https://github.com/ardrag0n/dwm-rice) - 
 ### 🌱 My latest projects
 
 - [ardrag0n/calc](https://github.com/ardrag0n/calc) - A simple Mdcat Merit calculator
