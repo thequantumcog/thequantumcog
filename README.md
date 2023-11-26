@@ -25,11 +25,11 @@
 - [Fixing Battery Icon For Laptop Users](https://github.com/ChrisTitusTech/Debian-titus/pull/37) on [ChrisTitusTech/Debian-titus](https://github.com/ChrisTitusTech/Debian-titus)
 ### 📰 Recent Blog Posts
 
-- [My Configs](https://thebrink.netlify.app/posts/2023/my-configs/)
+- [Old Internet is Dying](https://thebrink.netlify.app/old-internet-is-dying/)
+- [Create Swapfile](https://thebrink.netlify.app/create-swapfile/)
 - [Using Fingerprint for Sudo Password](https://thebrink.netlify.app/using-fingerprint-for-sudo-password/)
 - [Useful Adb Commands](https://thebrink.netlify.app/adb-tricks/)
 - [Shenanigan Free Windows Installation](https://thebrink.netlify.app/shenanigan-free-windows-installation/)
-- [Optimizing Linux Boot Time](https://thebrink.netlify.app/optimizing-boot-time/)
 ### 📫 How to reach me:
   - Twitter   : <https://twitter.com/ar0177417>
   - Blog   : <https://thebrink.netlify.app>
