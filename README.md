@@ -29,7 +29,7 @@
 - [Create Swapfile](https://thebrink.netlify.app/create-swapfile/)
 - [Using Fingerprint for Sudo Password](https://thebrink.netlify.app/using-fingerprint-for-sudo-password/)
 - [Useful Adb Commands](https://thebrink.netlify.app/adb-tricks/)
-- [Shenanigan Free Windows Installation](https://thebrink.netlify.app/shenanigan-free-windows-installation/)
+- [Installing Windows Using Only CMD](https://thebrink.netlify.app/shenanigan-free-windows-installation/)
 ### 📫 How to reach me:
   - Twitter   : <https://twitter.com/ar0177417>
   - Blog   : <https://thebrink.netlify.app>
