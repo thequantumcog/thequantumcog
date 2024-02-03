@@ -6,11 +6,11 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ardrag0n/lineage_infinix_x6831](https://github.com/ardrag0n/lineage_infinix_x6831) - 
-- [Redminote105gismyphone/android_device_infinix_x6831](https://github.com/Redminote105gismyphone/android_device_infinix_x6831) - Device tree for infinix hot 30 (x6831) lineage
-- [ardrag0n/magisk-module-infinix-hot30](https://github.com/ardrag0n/magisk-module-infinix-hot30) - 
 - [ardrag0n/device_infinix_X6831](https://github.com/ardrag0n/device_infinix_X6831) - 
-- [ardrag0n/website](https://github.com/ardrag0n/website) - website
+- [bzoomb/X670](https://github.com/bzoomb/X670) - 
+- [Redminote105gismyphone/android_device_infinix_x6831](https://github.com/Redminote105gismyphone/android_device_infinix_x6831) - Device tree for infinix hot 30 (x6831) lineage
+- [ardrag0n/lineage_infinix_x6831](https://github.com/ardrag0n/lineage_infinix_x6831) - 
+- [ardrag0n/magisk-module-infinix-hot30](https://github.com/ardrag0n/magisk-module-infinix-hot30) - 
 ### 🌱 My latest projects
 
 - [ardrag0n/lineage_infinix_x6831](https://github.com/ardrag0n/lineage_infinix_x6831) - 
