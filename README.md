@@ -6,11 +6,11 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [ardrag0n/website](https://github.com/ardrag0n/website) - website
 - [ardrag0n/magisk-module-infinix-hot30](https://github.com/ardrag0n/magisk-module-infinix-hot30) - 
 - [ardrag0n/device_infinix_X6831](https://github.com/ardrag0n/device_infinix_X6831) - 
 - [bzoomb/X670](https://github.com/bzoomb/X670) - 
 - [ardrag0n/lineage_infinix_x6831](https://github.com/ardrag0n/lineage_infinix_x6831) - 
-- [Redminote105gismyphone/android_device_infinix_x6831](https://github.com/Redminote105gismyphone/android_device_infinix_x6831) - Device tree for infinix hot 30 (x6831) lineage
 ### 🌱 My latest projects
 
 - [ardrag0n/lineage_infinix_x6831](https://github.com/ardrag0n/lineage_infinix_x6831) - 
@@ -26,11 +26,11 @@
 - [Fixing Battery Icon For Laptop Users](https://github.com/ChrisTitusTech/Debian-titus/pull/37) on [ChrisTitusTech/Debian-titus](https://github.com/ChrisTitusTech/Debian-titus)
 ### 📰 Recent Blog Posts
 
+- [Make GSI RW (For Ext4)](https://thebrink.netlify.app/make-gsi-rw/)
 - [Old Internet is Dying](https://thebrink.netlify.app/old-internet-is-dying/)
 - [Create Swapfile](https://thebrink.netlify.app/create-swapfile/)
 - [Using Fingerprint for Sudo Password](https://thebrink.netlify.app/using-fingerprint-for-sudo-password/)
 - [Useful Adb Commands](https://thebrink.netlify.app/adb-tricks/)
-- [Installing Windows Using Only CMD](https://thebrink.netlify.app/shenanigan-free-windows-installation/)
 ### 📫 How to reach me:
   - Twitter   : <https://twitter.com/ar0177417>
   - Blog   : <https://thebrink.netlify.app>
