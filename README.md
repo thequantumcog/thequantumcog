@@ -13,11 +13,11 @@
 - [ardrag0n/lineage_infinix_x6831](https://github.com/ardrag0n/lineage_infinix_x6831) - 
 ### 🌱 My latest projects
 
+- [ardrag0n/simple-proxy](https://github.com/ardrag0n/simple-proxy) - 
 - [ardrag0n/lineage_infinix_x6831](https://github.com/ardrag0n/lineage_infinix_x6831) - 
 - [ardrag0n/magisk-module-infinix-hot30](https://github.com/ardrag0n/magisk-module-infinix-hot30) - 
 - [ardrag0n/device_infinix_X6831](https://github.com/ardrag0n/device_infinix_X6831) - 
 - [ardrag0n/calc](https://github.com/ardrag0n/calc) - A simple Mdcat Merit calculator
-- [ardrag0n/artix-rice](https://github.com/ardrag0n/artix-rice) - My Artix Auto Install Script.So I don&#39;t have to reinstall everything manually
 ### 🔨 My recent Pull Requests
 
 - [12.1](https://github.com/ardrag0n/device_infinix_X6831/pull/1) on [ardrag0n/device_infinix_X6831](https://github.com/ardrag0n/device_infinix_X6831)
