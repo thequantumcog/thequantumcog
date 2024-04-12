@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/ardrag0n/ardrag0n/output/github-contribution-grid-snake.svg" />
-<p align="center"><a href="https://github.com/ardrag0n">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ardrag0n&show_icons=true&theme=transparent&hide=contribs" />
+<img src="https://raw.githubusercontent.com/thequantumcog/thequantumcog/output/github-contribution-grid-snake.svg" />
+<p align="center"><a href="https://github.com/thequantumcog">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thequantumcogn&show_icons=true&theme=transparent&hide=contribs" />
 </a></p>
 
 
@@ -32,5 +32,5 @@
 - [Using Fingerprint for Sudo Password](https://thebrink.netlify.app/using-fingerprint-for-sudo-password/)
 - [Useful Adb Commands](https://thebrink.netlify.app/adb-tricks/)
 ### 📫 How to reach me:
-  - Twitter   : <https://twitter.com/ar0177417>
+  - Mastodon   : <https://fosstodon.org/quantumcog>
   - Blog   : <https://thebrink.netlify.app>
