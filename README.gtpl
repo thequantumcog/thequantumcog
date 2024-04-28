@@ -21,5 +21,5 @@
 - [{{ .Title }}]({{ .URL }})
 {{- end }}
 ### 📫 How to reach me:
-  - Mastodon   : <https://fosstodon.org/quantumcog>
+  - Mastodon   : <https://fosstodon.org/@quantumcog>
   - Blog   : <https://thebrink.netlify.app>
