@@ -32,5 +32,5 @@
 - [Using Fingerprint for Sudo Password](https://thebrink.netlify.app/using-fingerprint-for-sudo-password/)
 - [Useful Adb Commands](https://thebrink.netlify.app/adb-tricks/)
 ### 📫 How to reach me:
-  - Mastodon   : <https://fosstodon.org/quantumcog>
+  - Mastodon   : <https://fosstodon.org/@quantumcog>
   - Blog   : <https://thebrink.netlify.app>
