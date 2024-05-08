@@ -13,11 +13,11 @@
 - [Redminote105gismyphone/android_device_infinix_x6831](https://github.com/Redminote105gismyphone/android_device_infinix_x6831) - Device tree for infinix hot 30 (x6831) lineage
 ### 🌱 My latest projects
 
+- [thequantumcog/dwl](https://github.com/thequantumcog/dwl) - 
 - [thequantumcog/magisk-module-infinix-hot30](https://github.com/thequantumcog/magisk-module-infinix-hot30) - 
 - [thequantumcog/device_infinix_X6831](https://github.com/thequantumcog/device_infinix_X6831) - 
 - [thequantumcog/calc](https://github.com/thequantumcog/calc) - A simple Mdcat Merit calculator
 - [thequantumcog/artix-rice](https://github.com/thequantumcog/artix-rice) - My Artix Auto Install Script.So I don&#39;t have to reinstall everything manually
-- [thequantumcog/nvim-config](https://github.com/thequantumcog/nvim-config) - My neovim config
 ### 🔨 My recent Pull Requests
 
 - [12.1](https://github.com/thequantumcog/device_infinix_X6831/pull/1) on [thequantumcog/device_infinix_X6831](https://github.com/thequantumcog/device_infinix_X6831)
