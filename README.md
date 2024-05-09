@@ -6,15 +6,15 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [thequantumcog/website](https://github.com/thequantumcog/website) - website
+- [thequantumcog/calc](https://github.com/thequantumcog/calc) - A simple Mdcat Merit calculator
+- [thequantumcog/dwl](https://github.com/thequantumcog/dwl) - 
+- [thequantumcog/module-X6831](https://github.com/thequantumcog/module-X6831) - 
 - [thequantumcog/device_infinix_X6831](https://github.com/thequantumcog/device_infinix_X6831) - 
-- [thequantumcog/magisk-module-infinix-hot30](https://github.com/thequantumcog/magisk-module-infinix-hot30) - 
-- [bzoomb/X670](https://github.com/bzoomb/X670) - 
-- [Redminote105gismyphone/android_device_infinix_x6831](https://github.com/Redminote105gismyphone/android_device_infinix_x6831) - Device tree for infinix hot 30 (x6831) lineage
+- [thequantumcog/website](https://github.com/thequantumcog/website) - website
 ### 🌱 My latest projects
 
 - [thequantumcog/dwl](https://github.com/thequantumcog/dwl) - 
-- [thequantumcog/magisk-module-infinix-hot30](https://github.com/thequantumcog/magisk-module-infinix-hot30) - 
+- [thequantumcog/module-X6831](https://github.com/thequantumcog/module-X6831) - 
 - [thequantumcog/device_infinix_X6831](https://github.com/thequantumcog/device_infinix_X6831) - 
 - [thequantumcog/calc](https://github.com/thequantumcog/calc) - A simple Mdcat Merit calculator
 - [thequantumcog/artix-rice](https://github.com/thequantumcog/artix-rice) - My Artix Auto Install Script.So I don&#39;t have to reinstall everything manually
