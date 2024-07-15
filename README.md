@@ -8,8 +8,8 @@
 
 - [thequantumcog/module-X6831](https://github.com/thequantumcog/module-X6831) - 
 - [thequantumcog/calc](https://github.com/thequantumcog/calc) - A simple Mdcat Merit calculator
-- [thequantumcog/device_infinix_X6831](https://github.com/thequantumcog/device_infinix_X6831) - 
 - [thequantumcog/dwl](https://github.com/thequantumcog/dwl) - 
+- [thequantumcog/device_infinix_X6831](https://github.com/thequantumcog/device_infinix_X6831) - 
 - [thequantumcog/website](https://github.com/thequantumcog/website) - website
 ### 🌱 My latest projects
 
