@@ -6,18 +6,18 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [thequantumcog/Table-Tennis](https://github.com/thequantumcog/Table-Tennis) - 
 - [thequantumcog/calc](https://github.com/thequantumcog/calc) - A simple Mdcat Merit calculator
 - [thequantumcog/device_infinix_X6831](https://github.com/thequantumcog/device_infinix_X6831) - Device Tree for Infinix X6831
 - [thequantumcog/module-X6831](https://github.com/thequantumcog/module-X6831) - 
 - [thequantumcog/dwl](https://github.com/thequantumcog/dwl) - 
-- [thequantumcog/website](https://github.com/thequantumcog/website) - website
 ### 🌱 My latest projects
 
+- [thequantumcog/Table-Tennis](https://github.com/thequantumcog/Table-Tennis) - 
 - [thequantumcog/dwl](https://github.com/thequantumcog/dwl) - 
 - [thequantumcog/module-X6831](https://github.com/thequantumcog/module-X6831) - 
 - [thequantumcog/device_infinix_X6831](https://github.com/thequantumcog/device_infinix_X6831) - Device Tree for Infinix X6831
 - [thequantumcog/calc](https://github.com/thequantumcog/calc) - A simple Mdcat Merit calculator
-- [thequantumcog/artix-rice](https://github.com/thequantumcog/artix-rice) - My Artix Auto Install Script.So I don&#39;t have to reinstall everything manually
 ### 🔨 My recent Pull Requests
 
 - [12.1](https://github.com/thequantumcog/device_infinix_X6831/pull/1) on [thequantumcog/device_infinix_X6831](https://github.com/thequantumcog/device_infinix_X6831)
