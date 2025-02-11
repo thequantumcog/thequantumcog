@@ -9,8 +9,8 @@
 - [thequantumcog/Table-Tennis](https://github.com/thequantumcog/Table-Tennis) - 
 - [thequantumcog/calc](https://github.com/thequantumcog/calc) - A simple Mdcat Merit calculator
 - [thequantumcog/device_infinix_X6831](https://github.com/thequantumcog/device_infinix_X6831) - Device Tree for Infinix X6831
-- [thequantumcog/module-X6831](https://github.com/thequantumcog/module-X6831) - 
 - [thequantumcog/dwl](https://github.com/thequantumcog/dwl) - 
+- [thequantumcog/module-X6831](https://github.com/thequantumcog/module-X6831) - 
 ### 🌱 My latest projects
 
 - [thequantumcog/Table-Tennis](https://github.com/thequantumcog/Table-Tennis) - 
