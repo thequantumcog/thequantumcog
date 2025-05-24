@@ -6,6 +6,7 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [thequantumcog/website](https://github.com/thequantumcog/website) - website
 - [thequantumcog/device_infinix_X6831](https://github.com/thequantumcog/device_infinix_X6831) - Device Tree for Infinix X6831
 - [thequantumcog/Table-Tennis](https://github.com/thequantumcog/Table-Tennis) - 
 ### 🌱 My latest projects
@@ -24,10 +25,10 @@
 ### 📰 Recent Blog Posts
 
 - [Make GSI RW (For Ext4)](https://thebrink.netlify.app/make-gsi-rw/)
-- [Old Internet is Dying](https://thebrink.netlify.app/old-internet-is-dying/)
 - [Create Swapfile](https://thebrink.netlify.app/create-swapfile/)
 - [Using Fingerprint for Sudo Password](https://thebrink.netlify.app/using-fingerprint-for-sudo-password/)
 - [Useful Adb Commands](https://thebrink.netlify.app/adb-tricks/)
+- [Installing Windows Only Using CMD](https://thebrink.netlify.app/shenanigan-free-windows-installation/)
 ### 📫 How to reach me:
   - Mastodon   : <https://fosstodon.org/@quantumcog>
   - Blog   : <https://thebrink.netlify.app>
