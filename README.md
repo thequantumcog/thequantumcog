@@ -6,16 +6,17 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [thequantumcog/Retro-Tetris](https://github.com/thequantumcog/Retro-Tetris) - 
 - [thequantumcog/website](https://github.com/thequantumcog/website) - website
 - [thequantumcog/device_infinix_X6831](https://github.com/thequantumcog/device_infinix_X6831) - Device Tree for Infinix X6831
 - [thequantumcog/Table-Tennis](https://github.com/thequantumcog/Table-Tennis) - 
 ### 🌱 My latest projects
 
+- [thequantumcog/Retro-Tetris](https://github.com/thequantumcog/Retro-Tetris) - 
 - [thequantumcog/Table-Tennis](https://github.com/thequantumcog/Table-Tennis) - 
 - [thequantumcog/dwl](https://github.com/thequantumcog/dwl) - 
 - [thequantumcog/module-X6831](https://github.com/thequantumcog/module-X6831) - 
 - [thequantumcog/device_infinix_X6831](https://github.com/thequantumcog/device_infinix_X6831) - Device Tree for Infinix X6831
-- [thequantumcog/calc](https://github.com/thequantumcog/calc) - A simple Mdcat Merit calculator
 ### 🔨 My recent Pull Requests
 
 - [12.1](https://github.com/thequantumcog/device_infinix_X6831/pull/1) on [thequantumcog/device_infinix_X6831](https://github.com/thequantumcog/device_infinix_X6831)
