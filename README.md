@@ -26,11 +26,11 @@
 - [Fixing Battery Icon For Laptop Users](https://github.com/ChrisTitusTech/Debian-titus/pull/37) on [ChrisTitusTech/Debian-titus](https://github.com/ChrisTitusTech/Debian-titus)
 ### 📰 Recent Blog Posts
 
-- [Switching to MiniFlux (RSS)](https://thebrink.netlify.app/yapping-about-rss/)
-- [Make GSI RW (For Ext4)](https://thebrink.netlify.app/make-gsi-rw/)
-- [Create Swapfile](https://thebrink.netlify.app/create-swapfile/)
-- [Using Fingerprint for Sudo Password](https://thebrink.netlify.app/using-fingerprint-for-sudo-password/)
-- [Useful Adb Commands](https://thebrink.netlify.app/adb-tricks/)
+- [Switching to MiniFlux (RSS)](https://blog.thisjust.rocks/yapping-about-rss/)
+- [Make GSI RW (For Ext4)](https://blog.thisjust.rocks/make-gsi-rw/)
+- [Create Swapfile](https://blog.thisjust.rocks/create-swapfile/)
+- [Using Fingerprint for Sudo Password](https://blog.thisjust.rocks/using-fingerprint-for-sudo-password/)
+- [Useful Adb Commands](https://blog.thisjust.rocks/adb-tricks/)
 ### 📫 How to reach me:
   - Mastodon   : <https://fosstodon.org/@quantumcog>
   - Blog   : <https://thebrink.netlify.app>
