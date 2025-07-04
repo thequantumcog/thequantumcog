@@ -7,10 +7,10 @@
 ### 👷 Check out what I'm currently working on
 
 - [thequantumcog/website](https://github.com/thequantumcog/website) - website
+- [thequantumcog/module-X6831](https://github.com/thequantumcog/module-X6831) - 
 - [thequantumcog/Docker-Misc](https://github.com/thequantumcog/Docker-Misc) - Misc Configs for my Containers
 - [thequantumcog/wtw](https://github.com/thequantumcog/wtw) - Simple Text Widget
 - [thequantumcog/Retro-Tetris](https://github.com/thequantumcog/Retro-Tetris) - 
-- [thequantumcog/device_infinix_X6831](https://github.com/thequantumcog/device_infinix_X6831) - Device Tree for Infinix X6831
 ### 🌱 My latest projects
 
 - [thequantumcog/Docker-Misc](https://github.com/thequantumcog/Docker-Misc) - Misc Configs for my Containers
@@ -26,11 +26,11 @@
 - [Fixing Battery Icon For Laptop Users](https://github.com/ChrisTitusTech/Debian-titus/pull/37) on [ChrisTitusTech/Debian-titus](https://github.com/ChrisTitusTech/Debian-titus)
 ### 📰 Recent Blog Posts
 
+- [Installing Usable Windows the Improper Way](https://blog.thisjust.rocks/installing-windows/)
 - [Creating a New Entry in the Send To Menu](https://blog.thisjust.rocks/create-a-custom-entry-in-send-to/)
 - [Switching to MiniFlux (RSS)](https://blog.thisjust.rocks/yapping-about-rss/)
 - [Make GSI RW (For Ext4)](https://blog.thisjust.rocks/make-gsi-rw/)
 - [Create Swapfile](https://blog.thisjust.rocks/create-swapfile/)
-- [Using Fingerprint for Sudo Password](https://blog.thisjust.rocks/using-fingerprint-for-sudo-password/)
 ### 📫 How to reach me:
   - Mastodon   : <https://fosstodon.org/@quantumcog>
-  - Blog   : <https://thebrink.netlify.app>
+  - Blog   : <https://blog.thisjust.rocks>
