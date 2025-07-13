@@ -6,18 +6,18 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [thequantumcog/treble_manifest](https://github.com/thequantumcog/treble_manifest) - 
+- [thequantumcog/LineageOS_gsi](https://github.com/thequantumcog/LineageOS_gsi) - 
 - [thequantumcog/website](https://github.com/thequantumcog/website) - website
 - [thequantumcog/module-X6831](https://github.com/thequantumcog/module-X6831) - 
 - [thequantumcog/Docker-Misc](https://github.com/thequantumcog/Docker-Misc) - Misc Configs for my Containers
-- [thequantumcog/wtw](https://github.com/thequantumcog/wtw) - Simple Text Widget
-- [thequantumcog/Retro-Tetris](https://github.com/thequantumcog/Retro-Tetris) - 
 ### 🌱 My latest projects
 
+- [thequantumcog/LineageOS_gsi](https://github.com/thequantumcog/LineageOS_gsi) - 
+- [thequantumcog/treble_manifest](https://github.com/thequantumcog/treble_manifest) - 
 - [thequantumcog/Docker-Misc](https://github.com/thequantumcog/Docker-Misc) - Misc Configs for my Containers
 - [thequantumcog/wtw](https://github.com/thequantumcog/wtw) - Simple Text Widget
 - [thequantumcog/Retro-Tetris](https://github.com/thequantumcog/Retro-Tetris) - 
-- [thequantumcog/Table-Tennis](https://github.com/thequantumcog/Table-Tennis) - 
-- [thequantumcog/dwl](https://github.com/thequantumcog/dwl) - 
 ### 🔨 My recent Pull Requests
 
 - [12.1](https://github.com/thequantumcog/device_infinix_X6831/pull/1) on [thequantumcog/device_infinix_X6831](https://github.com/thequantumcog/device_infinix_X6831)
