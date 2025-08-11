@@ -30,7 +30,7 @@
 - [Boot ISOs Directly From Disk](https://blog.thisjust.rocks/boot-iso-from-disk/)
 - [Checklist for My GSI/CROM](https://blog.thisjust.rocks/tweaks-for-my-phone-gsi/)
 - [Making Windows Tolerable](https://blog.thisjust.rocks/fixing-windows/)
-- [Creating a New Entry in the Send To Menu](https://blog.thisjust.rocks/create-a-custom-entry-in-send-to/)
+- [Creating a New Entry in the Send To Menu](https://blog.thisjust.rocks/posts/2025/create-a-custom-entry-in-send-to/)
 ### 📫 How to reach me:
   - Mastodon   : <https://fosstodon.org/@quantumcog>
   - Blog   : <https://blog.thisjust.rocks>
