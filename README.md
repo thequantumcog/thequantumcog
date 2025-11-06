@@ -6,11 +6,11 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [thequantumcog/website](https://github.com/thequantumcog/website) - website
-- [thequantumcog/LineageOS_gsi](https://github.com/thequantumcog/LineageOS_gsi) - 
 - [thequantumcog/treble_manifest](https://github.com/thequantumcog/treble_manifest) - 
+- [thequantumcog/LineageOS_gsi](https://github.com/thequantumcog/LineageOS_gsi) - 
 - [thequantumcog/module-X6831](https://github.com/thequantumcog/module-X6831) - 
 - [thequantumcog/Docker-Misc](https://github.com/thequantumcog/Docker-Misc) - Misc Configs for my Containers
+- [thequantumcog/wtw](https://github.com/thequantumcog/wtw) - Simple Text Widget
 ### 🌱 My latest projects
 
 - [thequantumcog/LineageOS_gsi](https://github.com/thequantumcog/LineageOS_gsi) - 
