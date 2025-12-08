@@ -6,8 +6,8 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [thequantumcog/treble_manifest](https://github.com/thequantumcog/treble_manifest) - 
 - [thequantumcog/LineageOS_gsi](https://github.com/thequantumcog/LineageOS_gsi) - 
+- [thequantumcog/treble_manifest](https://github.com/thequantumcog/treble_manifest) - 
 - [thequantumcog/module-X6831](https://github.com/thequantumcog/module-X6831) - 
 - [thequantumcog/Docker-Misc](https://github.com/thequantumcog/Docker-Misc) - Misc Configs for my Containers
 - [thequantumcog/wtw](https://github.com/thequantumcog/wtw) - Simple Text Widget
