@@ -6,24 +6,25 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [thequantumcog/Balloon-Pop-Assembly](https://github.com/thequantumcog/Balloon-Pop-Assembly) - 
 - [thequantumcog/LineageOS_gsi](https://github.com/thequantumcog/LineageOS_gsi) - 
 - [thequantumcog/treble_manifest](https://github.com/thequantumcog/treble_manifest) - 
 - [thequantumcog/module-X6831](https://github.com/thequantumcog/module-X6831) - 
 - [thequantumcog/Docker-Misc](https://github.com/thequantumcog/Docker-Misc) - Misc Configs for my Containers
-- [thequantumcog/wtw](https://github.com/thequantumcog/wtw) - Simple Text Widget
 ### 🌱 My latest projects
 
+- [thequantumcog/Balloon-Pop-Assembly](https://github.com/thequantumcog/Balloon-Pop-Assembly) - 
 - [thequantumcog/LineageOS_gsi](https://github.com/thequantumcog/LineageOS_gsi) - 
 - [thequantumcog/treble_manifest](https://github.com/thequantumcog/treble_manifest) - 
 - [thequantumcog/Docker-Misc](https://github.com/thequantumcog/Docker-Misc) - Misc Configs for my Containers
 - [thequantumcog/wtw](https://github.com/thequantumcog/wtw) - Simple Text Widget
-- [thequantumcog/Retro-Tetris](https://github.com/thequantumcog/Retro-Tetris) - 
 ### 🔨 My recent Pull Requests
 
+- [Added random](https://github.com/thequantumcog/Balloon-Pop-Assembly/pull/2) on [thequantumcog/Balloon-Pop-Assembly](https://github.com/thequantumcog/Balloon-Pop-Assembly)
+- [NEW FILE](https://github.com/thequantumcog/Balloon-Pop-Assembly/pull/1) on [thequantumcog/Balloon-Pop-Assembly](https://github.com/thequantumcog/Balloon-Pop-Assembly)
 - [12.1](https://github.com/thequantumcog/device_infinix_X6831/pull/1) on [thequantumcog/device_infinix_X6831](https://github.com/thequantumcog/device_infinix_X6831)
 - [Fixing Shortcut for Window Closing in sxhkd](https://github.com/ChrisTitusTech/Debian-titus/pull/40) on [ChrisTitusTech/Debian-titus](https://github.com/ChrisTitusTech/Debian-titus)
 - [Fixing Closing Window Shortcut in sxhkd](https://github.com/ChrisTitusTech/Debian-titus/pull/39) on [ChrisTitusTech/Debian-titus](https://github.com/ChrisTitusTech/Debian-titus)
-- [Fixing Battery Icon For Laptop Users](https://github.com/ChrisTitusTech/Debian-titus/pull/37) on [ChrisTitusTech/Debian-titus](https://github.com/ChrisTitusTech/Debian-titus)
 ### 📰 Recent Blog Posts
 
 - [Wireguard Split Tunelling](https://blog.thisjust.rocks/posts/2025/wireguard-split-tunelling/)
