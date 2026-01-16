@@ -6,18 +6,18 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [thequantumcog/Jugaad-OS](https://github.com/thequantumcog/Jugaad-OS) - I was too bored
 - [thequantumcog/Balloon-Pop-Assembly](https://github.com/thequantumcog/Balloon-Pop-Assembly) - 
-- [thequantumcog/LineageOS_gsi](https://github.com/thequantumcog/LineageOS_gsi) - 
 - [thequantumcog/treble_manifest](https://github.com/thequantumcog/treble_manifest) - 
+- [thequantumcog/LineageOS_gsi](https://github.com/thequantumcog/LineageOS_gsi) - 
 - [thequantumcog/module-X6831](https://github.com/thequantumcog/module-X6831) - 
-- [thequantumcog/Docker-Misc](https://github.com/thequantumcog/Docker-Misc) - Misc Configs for my Containers
 ### 🌱 My latest projects
 
+- [thequantumcog/Jugaad-OS](https://github.com/thequantumcog/Jugaad-OS) - I was too bored
 - [thequantumcog/Balloon-Pop-Assembly](https://github.com/thequantumcog/Balloon-Pop-Assembly) - 
 - [thequantumcog/LineageOS_gsi](https://github.com/thequantumcog/LineageOS_gsi) - 
 - [thequantumcog/treble_manifest](https://github.com/thequantumcog/treble_manifest) - 
 - [thequantumcog/Docker-Misc](https://github.com/thequantumcog/Docker-Misc) - Misc Configs for my Containers
-- [thequantumcog/wtw](https://github.com/thequantumcog/wtw) - Simple Text Widget
 ### 🔨 My recent Pull Requests
 
 - [Added random](https://github.com/thequantumcog/Balloon-Pop-Assembly/pull/2) on [thequantumcog/Balloon-Pop-Assembly](https://github.com/thequantumcog/Balloon-Pop-Assembly)
