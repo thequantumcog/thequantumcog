@@ -6,18 +6,18 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [thequantumcog/grim-patch](https://github.com/thequantumcog/grim-patch) - Porting the patch for grim scaling issue to grim 1.5.0
 - [thequantumcog/nvim-lab-script](https://github.com/thequantumcog/nvim-lab-script) - 
 - [thequantumcog/Jugaad-OS](https://github.com/thequantumcog/Jugaad-OS) - I was too bored
 - [thequantumcog/Balloon-Pop-Assembly](https://github.com/thequantumcog/Balloon-Pop-Assembly) - 
 - [thequantumcog/LineageOS_gsi](https://github.com/thequantumcog/LineageOS_gsi) - 
-- [thequantumcog/treble_manifest](https://github.com/thequantumcog/treble_manifest) - 
 ### 🌱 My latest projects
 
+- [thequantumcog/grim-patch](https://github.com/thequantumcog/grim-patch) - Porting the patch for grim scaling issue to grim 1.5.0
 - [thequantumcog/nvim-lab-script](https://github.com/thequantumcog/nvim-lab-script) - 
 - [thequantumcog/Jugaad-OS](https://github.com/thequantumcog/Jugaad-OS) - I was too bored
 - [thequantumcog/Balloon-Pop-Assembly](https://github.com/thequantumcog/Balloon-Pop-Assembly) - 
 - [thequantumcog/LineageOS_gsi](https://github.com/thequantumcog/LineageOS_gsi) - 
-- [thequantumcog/treble_manifest](https://github.com/thequantumcog/treble_manifest) - 
 ### 🔨 My recent Pull Requests
 
 - [Added random](https://github.com/thequantumcog/Balloon-Pop-Assembly/pull/2) on [thequantumcog/Balloon-Pop-Assembly](https://github.com/thequantumcog/Balloon-Pop-Assembly)
