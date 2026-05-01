@@ -6,25 +6,25 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [thequantumcog/grim-patch](https://github.com/thequantumcog/grim-patch) - Porting the patch for grim scaling issue to grim 1.5.0
 - [thequantumcog/nvim-lab-script](https://github.com/thequantumcog/nvim-lab-script) - 
-- [thequantumcog/Jugaad-OS](https://github.com/thequantumcog/Jugaad-OS) - I was too bored
-- [thequantumcog/Balloon-Pop-Assembly](https://github.com/thequantumcog/Balloon-Pop-Assembly) - 
-- [thequantumcog/LineageOS_gsi](https://github.com/thequantumcog/LineageOS_gsi) - 
+- [thequantumcog/realtime-sensor-processing](https://github.com/thequantumcog/realtime-sensor-processing) - 
+- [AR-Collective/SDA-Proj](https://github.com/AR-Collective/SDA-Proj) - 
+- [thequantumcog/grim-patch](https://github.com/thequantumcog/grim-patch) - Porting the patch for grim scaling issue to grim 1.5.0
+- [thequantumcog/Jugaad-OS](https://github.com/thequantumcog/Jugaad-OS) - 
 ### 🌱 My latest projects
 
+- [thequantumcog/realtime-sensor-processing](https://github.com/thequantumcog/realtime-sensor-processing) - 
 - [thequantumcog/grim-patch](https://github.com/thequantumcog/grim-patch) - Porting the patch for grim scaling issue to grim 1.5.0
 - [thequantumcog/nvim-lab-script](https://github.com/thequantumcog/nvim-lab-script) - 
-- [thequantumcog/Jugaad-OS](https://github.com/thequantumcog/Jugaad-OS) - I was too bored
+- [thequantumcog/Jugaad-OS](https://github.com/thequantumcog/Jugaad-OS) - 
 - [thequantumcog/Balloon-Pop-Assembly](https://github.com/thequantumcog/Balloon-Pop-Assembly) - 
-- [thequantumcog/LineageOS_gsi](https://github.com/thequantumcog/LineageOS_gsi) - 
 ### 🔨 My recent Pull Requests
 
-- [Added random](https://github.com/thequantumcog/Balloon-Pop-Assembly/pull/2) on [thequantumcog/Balloon-Pop-Assembly](https://github.com/thequantumcog/Balloon-Pop-Assembly)
-- [NEW FILE](https://github.com/thequantumcog/Balloon-Pop-Assembly/pull/1) on [thequantumcog/Balloon-Pop-Assembly](https://github.com/thequantumcog/Balloon-Pop-Assembly)
-- [12.1](https://github.com/thequantumcog/device_infinix_X6831/pull/1) on [thequantumcog/device_infinix_X6831](https://github.com/thequantumcog/device_infinix_X6831)
-- [Fixing Shortcut for Window Closing in sxhkd](https://github.com/ChrisTitusTech/Debian-titus/pull/40) on [ChrisTitusTech/Debian-titus](https://github.com/ChrisTitusTech/Debian-titus)
-- [Fixing Closing Window Shortcut in sxhkd](https://github.com/ChrisTitusTech/Debian-titus/pull/39) on [ChrisTitusTech/Debian-titus](https://github.com/ChrisTitusTech/Debian-titus)
+- [Cleanup and Update UML](https://github.com/AR-Collective/SDA-Proj/pull/50) on [AR-Collective/SDA-Proj](https://github.com/AR-Collective/SDA-Proj)
+- [Add initial GUI](https://github.com/AR-Collective/SDA-Proj/pull/43) on [AR-Collective/SDA-Proj](https://github.com/AR-Collective/SDA-Proj)
+- [Add telemetry](https://github.com/AR-Collective/SDA-Proj/pull/42) on [AR-Collective/SDA-Proj](https://github.com/AR-Collective/SDA-Proj)
+- [Divide Work into Modules and add Telemetry](https://github.com/AR-Collective/SDA-Proj/pull/41) on [AR-Collective/SDA-Proj](https://github.com/AR-Collective/SDA-Proj)
+- [Cleanup Legacy Pieces](https://github.com/AR-Collective/SDA-Proj/pull/40) on [AR-Collective/SDA-Proj](https://github.com/AR-Collective/SDA-Proj)
 ### 📰 Recent Blog Posts
 
 - [Wireguard Split Tunelling](https://blog.thisjust.rocks/posts/2025/wireguard-split-tunelling/)
