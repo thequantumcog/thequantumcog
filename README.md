@@ -20,11 +20,11 @@
 - [thequantumcog/Balloon-Pop-Assembly](https://github.com/thequantumcog/Balloon-Pop-Assembly) - 
 ### 🔨 My recent Pull Requests
 
+- [Commit](https://github.com/yarn-code-reader/Clinic-Management-System/pull/1) on [yarn-code-reader/Clinic-Management-System](https://github.com/yarn-code-reader/Clinic-Management-System)
 - [Cleanup and Update UML](https://github.com/AR-Collective/SDA-Proj/pull/50) on [AR-Collective/SDA-Proj](https://github.com/AR-Collective/SDA-Proj)
 - [Add initial GUI](https://github.com/AR-Collective/SDA-Proj/pull/43) on [AR-Collective/SDA-Proj](https://github.com/AR-Collective/SDA-Proj)
 - [Add telemetry](https://github.com/AR-Collective/SDA-Proj/pull/42) on [AR-Collective/SDA-Proj](https://github.com/AR-Collective/SDA-Proj)
 - [Divide Work into Modules and add Telemetry](https://github.com/AR-Collective/SDA-Proj/pull/41) on [AR-Collective/SDA-Proj](https://github.com/AR-Collective/SDA-Proj)
-- [Cleanup Legacy Pieces](https://github.com/AR-Collective/SDA-Proj/pull/40) on [AR-Collective/SDA-Proj](https://github.com/AR-Collective/SDA-Proj)
 ### 📰 Recent Blog Posts
 
 - [Wireguard Split Tunelling](https://blog.thisjust.rocks/posts/2025/wireguard-split-tunelling/)
