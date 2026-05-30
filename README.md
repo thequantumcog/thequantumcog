@@ -7,10 +7,10 @@
 ### 👷 Check out what I'm currently working on
 
 - [thequantumcog/nvim-lab-script](https://github.com/thequantumcog/nvim-lab-script) - 
+- [AR-Collective/DB-Proj](https://github.com/AR-Collective/DB-Proj) - 
 - [thequantumcog/realtime-sensor-processing](https://github.com/thequantumcog/realtime-sensor-processing) - 
 - [AR-Collective/SDA-Proj](https://github.com/AR-Collective/SDA-Proj) - 
 - [thequantumcog/grim-patch](https://github.com/thequantumcog/grim-patch) - Porting the patch for grim scaling issue to grim 1.5.0
-- [thequantumcog/Jugaad-OS](https://github.com/thequantumcog/Jugaad-OS) - 
 ### 🌱 My latest projects
 
 - [thequantumcog/realtime-sensor-processing](https://github.com/thequantumcog/realtime-sensor-processing) - 
@@ -21,10 +21,10 @@
 ### 🔨 My recent Pull Requests
 
 - [Commit](https://github.com/yarn-code-reader/Clinic-Management-System/pull/1) on [yarn-code-reader/Clinic-Management-System](https://github.com/yarn-code-reader/Clinic-Management-System)
-- [Cleanup and Update UML](https://github.com/AR-Collective/SDA-Proj/pull/50) on [AR-Collective/SDA-Proj](https://github.com/AR-Collective/SDA-Proj)
-- [Add initial GUI](https://github.com/AR-Collective/SDA-Proj/pull/43) on [AR-Collective/SDA-Proj](https://github.com/AR-Collective/SDA-Proj)
-- [Add telemetry](https://github.com/AR-Collective/SDA-Proj/pull/42) on [AR-Collective/SDA-Proj](https://github.com/AR-Collective/SDA-Proj)
-- [Divide Work into Modules and add Telemetry](https://github.com/AR-Collective/SDA-Proj/pull/41) on [AR-Collective/SDA-Proj](https://github.com/AR-Collective/SDA-Proj)
+- [Switch Patient Http req from fetch to axios](https://github.com/AR-Collective/DB-Proj/pull/65) on [AR-Collective/DB-Proj](https://github.com/AR-Collective/DB-Proj)
+- [Add Req Blood routes](https://github.com/AR-Collective/DB-Proj/pull/64) on [AR-Collective/DB-Proj](https://github.com/AR-Collective/DB-Proj)
+- [integrate staff dashboard](https://github.com/AR-Collective/DB-Proj/pull/60) on [AR-Collective/DB-Proj](https://github.com/AR-Collective/DB-Proj)
+- [Improve Routing](https://github.com/AR-Collective/DB-Proj/pull/59) on [AR-Collective/DB-Proj](https://github.com/AR-Collective/DB-Proj)
 ### 📰 Recent Blog Posts
 
 - [Wireguard Split Tunelling](https://blog.thisjust.rocks/posts/2025/wireguard-split-tunelling/)
