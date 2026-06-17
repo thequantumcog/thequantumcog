@@ -6,11 +6,6 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [thequantumcog/nvim-lab-script](https://github.com/thequantumcog/nvim-lab-script) - 
-- [AR-Collective/DB-Proj](https://github.com/AR-Collective/DB-Proj) - 
-- [thequantumcog/realtime-sensor-processing](https://github.com/thequantumcog/realtime-sensor-processing) - 
-- [AR-Collective/SDA-Proj](https://github.com/AR-Collective/SDA-Proj) - 
-- [thequantumcog/grim-patch](https://github.com/thequantumcog/grim-patch) - Porting the patch for grim scaling issue to grim 1.5.0
 ### 🌱 My latest projects
 
 - [thequantumcog/realtime-sensor-processing](https://github.com/thequantumcog/realtime-sensor-processing) - 
