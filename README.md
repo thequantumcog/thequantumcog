@@ -8,11 +8,11 @@
 
 ### 🌱 My latest projects
 
+- [thequantumcog/STM32-BSP-Patch](https://github.com/thequantumcog/STM32-BSP-Patch) - 
 - [thequantumcog/realtime-sensor-processing](https://github.com/thequantumcog/realtime-sensor-processing) - 
 - [thequantumcog/grim-patch](https://github.com/thequantumcog/grim-patch) - Porting the patch for grim scaling issue to grim 1.5.0
 - [thequantumcog/nvim-lab-script](https://github.com/thequantumcog/nvim-lab-script) - 
 - [thequantumcog/Jugaad-OS](https://github.com/thequantumcog/Jugaad-OS) - 
-- [thequantumcog/Balloon-Pop-Assembly](https://github.com/thequantumcog/Balloon-Pop-Assembly) - 
 ### 🔨 My recent Pull Requests
 
 - [Commit](https://github.com/yarn-code-reader/Clinic-Management-System/pull/1) on [yarn-code-reader/Clinic-Management-System](https://github.com/yarn-code-reader/Clinic-Management-System)
