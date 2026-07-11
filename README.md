@@ -6,18 +6,18 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [thequantumcog/cog-server](https://github.com/thequantumcog/cog-server) - 
 - [thequantumcog/STM32-BSP-Patch](https://github.com/thequantumcog/STM32-BSP-Patch) - 
 - [quantum-009/innovaxel](https://github.com/quantum-009/innovaxel) - 
 - [thequantumcog/nvim-lab-script](https://github.com/thequantumcog/nvim-lab-script) - 
 - [AR-Collective/DB-Proj](https://github.com/AR-Collective/DB-Proj) - 
-- [thequantumcog/realtime-sensor-processing](https://github.com/thequantumcog/realtime-sensor-processing) - 
 ### 🌱 My latest projects
 
 - [thequantumcog/STM32-BSP-Patch](https://github.com/thequantumcog/STM32-BSP-Patch) - 
+- [thequantumcog/cog-server](https://github.com/thequantumcog/cog-server) - 
 - [thequantumcog/realtime-sensor-processing](https://github.com/thequantumcog/realtime-sensor-processing) - 
 - [thequantumcog/grim-patch](https://github.com/thequantumcog/grim-patch) - Porting the patch for grim scaling issue to grim 1.5.0
 - [thequantumcog/nvim-lab-script](https://github.com/thequantumcog/nvim-lab-script) - 
-- [thequantumcog/Jugaad-OS](https://github.com/thequantumcog/Jugaad-OS) - 
 ### 🔨 My recent Pull Requests
 
 - [Commit](https://github.com/yarn-code-reader/Clinic-Management-System/pull/1) on [yarn-code-reader/Clinic-Management-System](https://github.com/yarn-code-reader/Clinic-Management-System)
