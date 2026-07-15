@@ -1,8 +1,8 @@
-<img src="https://raw.githubusercontent.com/thequantumcog/thequantumcog/output/github-contribution-grid-snake.svg" />
+{*<img src="https://raw.githubusercontent.com/thequantumcog/thequantumcog/output/github-contribution-grid-snake.svg" />
 <p align="center"><a href="https://github.com/thequantumcog">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=thequantumcog&show_icons=true&theme=transparent&hide=contribs" />
-</a></p>
-
+</a></p>*}
+<img src="https://raw.githubusercontent.com/thequantumcog/thequantumcog/main/dist/github-metrics.svg" />
 
 ### 👷 Check out what I'm currently working on
 {{ range recentContributions 5 }}
