@@ -8,9 +8,9 @@
 
 - [thequantumcog/cog-server](https://github.com/thequantumcog/cog-server) - 
 - [thequantumcog/STM32-BSP-Patch](https://github.com/thequantumcog/STM32-BSP-Patch) - 
-- [quantum-009/innovaxel](https://github.com/quantum-009/innovaxel) - 
 - [thequantumcog/nvim-lab-script](https://github.com/thequantumcog/nvim-lab-script) - 
 - [AR-Collective/DB-Proj](https://github.com/AR-Collective/DB-Proj) - 
+- [thequantumcog/realtime-sensor-processing](https://github.com/thequantumcog/realtime-sensor-processing) - 
 ### 🌱 My latest projects
 
 - [thequantumcog/STM32-BSP-Patch](https://github.com/thequantumcog/STM32-BSP-Patch) - 
