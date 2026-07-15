@@ -1,7 +1,3 @@
-{*<img src="https://raw.githubusercontent.com/thequantumcog/thequantumcog/output/github-contribution-grid-snake.svg" />
-<p align="center"><a href="https://github.com/thequantumcog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thequantumcog&show_icons=true&theme=transparent&hide=contribs" />
-</a></p>*}
 <img src="https://raw.githubusercontent.com/thequantumcog/thequantumcog/main/dist/github-metrics.svg" />
 
 ### 👷 Check out what I'm currently working on
@@ -34,4 +30,6 @@
 - [Creating a New Entry in the Send To Menu](https://blog.thisjust.rocks/posts/2025/create-a-custom-entry-in-send-to/)
 ### 📫 How to reach me:
   - Mastodon   : <https://fosstodon.org/@quantumcog>
-  - Blog   : <https://blog.thisjust.rocks>
+  - Blog   : <https://blog.0177417.xyz>
+
+<img src="https://raw.githubusercontent.com/thequantumcog/thequantumcog/output/github-contribution-grid-snake.svg" />
