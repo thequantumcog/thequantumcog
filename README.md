@@ -16,11 +16,6 @@
 - [thequantumcog/nvim-lab-script](https://github.com/thequantumcog/nvim-lab-script) - 
 ### 🔨 My recent Pull Requests
 
-- [Commit](https://github.com/yarn-code-reader/Clinic-Management-System/pull/1) on [yarn-code-reader/Clinic-Management-System](https://github.com/yarn-code-reader/Clinic-Management-System)
-- [Switch Patient Http req from fetch to axios](https://github.com/AR-Collective/DB-Proj/pull/65) on [AR-Collective/DB-Proj](https://github.com/AR-Collective/DB-Proj)
-- [Add Req Blood routes](https://github.com/AR-Collective/DB-Proj/pull/64) on [AR-Collective/DB-Proj](https://github.com/AR-Collective/DB-Proj)
-- [integrate staff dashboard](https://github.com/AR-Collective/DB-Proj/pull/60) on [AR-Collective/DB-Proj](https://github.com/AR-Collective/DB-Proj)
-- [Improve Routing](https://github.com/AR-Collective/DB-Proj/pull/59) on [AR-Collective/DB-Proj](https://github.com/AR-Collective/DB-Proj)
 ### 📰 Recent Blog Posts
 
 - [Wireguard Split Tunelling](https://blog.thisjust.rocks/posts/2025/wireguard-split-tunelling/)
