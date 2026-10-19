@@ -2,11 +2,11 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [AR-Collective/umbral-ledger](https://github.com/AR-Collective/umbral-ledger) - 
 - [thequantumcog/cog-server](https://github.com/thequantumcog/cog-server) - 
 - [thequantumcog/STM32-BSP-Patch](https://github.com/thequantumcog/STM32-BSP-Patch) - 
 - [thequantumcog/nvim-lab-script](https://github.com/thequantumcog/nvim-lab-script) - 
 - [AR-Collective/DB-Proj](https://github.com/AR-Collective/DB-Proj) - 
-- [thequantumcog/realtime-sensor-processing](https://github.com/thequantumcog/realtime-sensor-processing) - 
 ### 🌱 My latest projects
 
 - [thequantumcog/STM32-BSP-Patch](https://github.com/thequantumcog/STM32-BSP-Patch) - 
